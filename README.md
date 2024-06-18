@@ -2,7 +2,7 @@
 
 ## 1. Unused EBS volumes
 ### Purpose - Cost optimisation
-- This lambda will help until unused ebs volumes associated with your EC2 instances. This will help us reduce cost.
+- This lambda will help until unused ebs volumes associated with your EC2 instances for more than 15 days. This will help us reduce cost.
 
 ## 2. Spot interruption handling notification
 ### Purpose - Intimate developers of potential unavailability of nodes 
