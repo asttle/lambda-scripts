@@ -10,7 +10,7 @@ ec2 = boto3.client('ec2')
 http = urllib3.PoolManager()
 
 # Google Chat webhook URL
-GOOGLE_CHAT_WEBHOOK_URL = 'https://chat.googleapis.com/v1/spaces/AAAALeRip30/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=GiKBf6iNxwTRzjg2DBrglRq63HXr7Ct3y9rKRO9OTl8'
+GOOGLE_CHAT_WEBHOOK_URL = 'CHAT_WEBHOOK_URL'
 
 def send_message_to_google_chat(message):
     headers = {
