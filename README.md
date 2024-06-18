@@ -13,7 +13,8 @@
 - Create a test event and test the lambda function
 
   
-![unused-ebs-volumes](https://github.com/asttle/lambda-scripts/assets/64640283/50e287c0-a63c-49cd-b130-d69bc67944ed)
+![unused-ebs-volumes (1)](https://github.com/asttle/lambda-scripts/assets/64640283/cde6d9ee-38e5-4122-93d6-f9c2f4eb04ac)
+
 
 ## 2. Spot interruption handling notification
 ### Purpose - Intimate developers of potential unavailability of nodes 
